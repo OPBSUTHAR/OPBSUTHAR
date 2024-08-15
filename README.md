@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning html/css/js/web development,python,c,c++, more+.
 - 💞️ I’m looking to collaborate on team build, partnership, etc.
 - 📫 How to reach me E-mail.
-- 😄 Pronouns: skills on tech with SMILE.
-- ⚡ Fun fact: creativity development.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: creativity development.skills on tech with SMILE.
 - instagram ,snapchat : for instagram/user="omprakashsuthar_007", for snapchat/user="ompsuthar_007".
 
 <!---
