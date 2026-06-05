@@ -5,7 +5,7 @@
 - 📫 How to reach me E-mail.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: creativity development.skills on tech with SMILE.
-- instagram ,snapchat : for instagram/user="omprakashsuthar_007", for snapchat/user="ompsuthar_007".
+- instagram ,snapchat : for instagram/user="omprakash7.suthar", for snapchat/user="ompsuthar_007".
 
 <!---
 OPBSUTHAR/OPBSUTHAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
