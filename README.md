@@ -146,8 +146,10 @@ Also in the toolkit: **Ollama, Hugging Face, Sentence Transformers, agentic work
 
 ---
 
+## Full project index
+
 <details>
-<summary><strong>Open the full project index — all 46 public repositories</strong></summary>
+<summary><strong>Open the index — all 46 public repositories</strong></summary>
 
 ### AI systems, agents & applied ML
 
