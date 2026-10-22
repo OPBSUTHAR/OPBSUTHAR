@@ -1,0 +1,86 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Omprakash Suthar — AI systems, full-stack products, security</title>
+  <desc id="desc">A dark control-tower style banner for Omprakash Suthar, GitHub handle OPBSUTHAR.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070A"/>
+      <stop offset="0.55" stop-color="#080D16"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <radialGradient id="limeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1110 20) rotate(132) scale(330 300)">
+      <stop stop-color="#A3E635" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#A3E635" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(610 330) rotate(-90) scale(280 260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <rect width="1280" height="360" fill="url(#limeGlow)"/>
+  <rect width="1280" height="360" fill="url(#cyanGlow)"/>
+
+  <path d="M0 0H1280" stroke="#A3E635" stroke-opacity="0.5" stroke-width="2"/>
+  <path d="M0 359H1280" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <g opacity="0.35" stroke="#94A3B8" stroke-width="1">
+    <path d="M48 48V72M48 48H72"/>
+    <path d="M1232 48V72M1232 48H1208"/>
+    <path d="M48 312V288M48 312H72"/>
+    <path d="M1232 312V288M1232 312H1208"/>
+  </g>
+
+  <rect x="48" y="76" width="4" height="214" rx="2" fill="#A3E635"/>
+
+  <text x="76" y="100" fill="#A3E635" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.4">AI SYSTEMS  ·  FULL-STACK  ·  SECURITY</text>
+
+  <text x="76" y="174" fill="#F8FAFC" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="0.5">OMPRAKASH SUTHAR</text>
+
+  <text x="76" y="213" fill="#A7B4C6" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="20" font-weight="400">I build AI systems that do real work — and prove it.</text>
+
+  <path d="M76 240H704" stroke="#FFFFFF" stroke-opacity="0.12"/>
+
+  <text x="76" y="278" fill="#E2E8F0" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.2">github.com/OPBSUTHAR</text>
+  <circle cx="334" cy="274" r="3" fill="#334155"/>
+  <text x="350" y="278" fill="#94A3B8" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="13">46 public repos</text>
+  <circle cx="478" cy="274" r="3" fill="#334155"/>
+  <text x="494" y="278" fill="#94A3B8" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="13">8 live demos</text>
+  <circle cx="606" cy="274" r="3" fill="#334155"/>
+  <text x="622" y="278" fill="#94A3B8" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="13">since 2024</text>
+
+  <g>
+    <rect x="812" y="64" width="400" height="232" rx="16" fill="#0A101B" stroke="#263244"/>
+    <rect x="812" y="64" width="400" height="40" rx="16" fill="#111A28"/>
+    <rect x="812" y="88" width="400" height="16" fill="#111A28"/>
+    <circle cx="838" cy="84" r="5" fill="#FF5F57"/>
+    <circle cx="856" cy="84" r="5" fill="#FEBC2E"/>
+    <circle cx="874" cy="84" r="5" fill="#28C840"/>
+    <text x="1176" y="88" fill="#64748B" font-family="'Cascadia Code', 'Consolas', monospace" font-size="10" text-anchor="end">zsh — 80×24</text>
+
+    <text x="840" y="132" fill="#A3E635" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">$ whoami</text>
+    <text x="840" y="154" fill="#E2E8F0" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">omprakash@opbsuthar</text>
+
+    <text x="840" y="184" fill="#A3E635" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">$ cat focus.txt</text>
+    <text x="840" y="206" fill="#CBD5E1" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">agentic AI · RAG · LLMOps</text>
+    <text x="840" y="226" fill="#CBD5E1" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">full-stack · security</text>
+
+    <text x="840" y="256" fill="#A3E635" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">$ echo $MISSION</text>
+    <text x="840" y="278" fill="#22D3EE" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">build → measure → harden</text>
+
+    <rect x="1122" y="265" width="72" height="20" rx="10" fill="#A3E635" fill-opacity="0.12" stroke="#A3E635" stroke-opacity="0.45"/>
+    <circle cx="1136" cy="275" r="3" fill="#A3E635" filter="url(#softGlow)"/>
+    <text x="1146" y="279" fill="#A3E635" font-family="'Segoe UI', Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1">OPEN</text>
+  </g>
+</svg>
