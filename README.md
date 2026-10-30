@@ -130,15 +130,19 @@ My work sits at the intersection of **agentic AI, full-stack product engineering
 The working inventory — languages I write, skills I build with them, and the tools I live in.
 
 **Languages**
+<br />
 <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,html,css&amp;theme=dark" alt="Python, C, C++, C#, Java, JavaScript, TypeScript, HTML, CSS" />
 
 **AI / data**
+<br />
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&amp;theme=dark" alt="PyTorch, scikit-learn, OpenCV" />
 
 **Backend / frontend**
+<br />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,tailwind,vite&amp;theme=dark" alt="FastAPI, Flask, Node.js, Express, React, Next.js, Tailwind, Vite" />
 
 **Data stores / delivery**
+<br />
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,redis,docker,vercel,git,github,githubactions,linux,bash&amp;theme=dark" alt="MongoDB, MySQL, PostgreSQL, SQLite, Supabase, Redis, Docker, Vercel, Git, GitHub, GitHub Actions, Linux, Bash" />
 
 ### Language stack
