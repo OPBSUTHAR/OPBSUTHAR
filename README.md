@@ -119,6 +119,17 @@ My work sits at the intersection of **agentic AI, full-stack product engineering
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center"><a href="https://pramaan-five.vercel.app">Pramaan ↗</a></h3>
+<p align="center"><strong>Offline UPI scam shield for India — proof before you pay.</strong></p>
+<p align="center">On-device Scam DNA fingerprint matching, a UPI QR/link inspector and VPA handle vetting. Hindi + English, fully offline: no account, no upload, no server. Built with Flutter &amp; Dart.</p>
+<p align="center"><code>Flutter</code> <code>Dart</code> <code>UPI</code> <code>Offline AI</code></p>
+<p align="center"><a href="https://pramaan-five.vercel.app">Live demo</a> · <a href="https://github.com/OPBSUTHAR/pramaan">Source</a></p>
+
+</td>
+</tr>
 </table>
 
 <p align="center"><sub>Also live: <a href="https://opbsuthar.github.io/BharatVista-Nexus/">BharatVista Nexus</a> — an open-data map in pure C + SQLite · <a href="https://opbsuthar.github.io/login-template/">Login Template</a> — my first Git project, still standing.</sub></p>
@@ -191,7 +202,7 @@ The working inventory — languages I write, skills I build with them, and the t
 ## Currently
 
 - **Building:** agentic systems with explicit approval gates and measurable failure modes.
-- **Shipping:** [Omnia](https://github.com/OPBSUTHAR/orbisnova) — one local-first app for every device — and an [autonomous annotator](https://github.com/OPBSUTHAR/autonomous-data-annotator) for any file type.
+- **Shipping:** [Omnia](https://github.com/OPBSUTHAR/orbisnova) — one local-first app for every device, an [autonomous annotator](https://github.com/OPBSUTHAR/autonomous-data-annotator) for any file type, and [Pramaan](https://github.com/OPBSUTHAR/pramaan) — an offline UPI scam shield for India (live at https://pramaan-five.vercel.app).
 - **Exploring:** AI for Indian satellites through [Satora](https://github.com/OPBSUTHAR/Satora) / Agnirva NEAT 5.0.
 - **Sharpening:** evaluation harnesses, observability, model routing and retrieval quality.
 - **Open to:** AI/platform engineering roles and collaborations where reliability matters.
@@ -224,6 +235,7 @@ The working inventory — languages I write, skills I build with them, and the t
 
 ### Full-stack products & interfaces
 
+- [Pramaan](https://github.com/OPBSUTHAR/pramaan) — offline UPI scam shield for India; on-device Scam DNA fingerprints + UPI QR/link inspector. `Flutter · Dart` · [Live](https://pramaan-five.vercel.app)
 - [Orbisnova / Omnia](https://github.com/OPBSUTHAR/orbisnova) — local-first cross-platform super-app; one TypeScript codebase for web, PWA and Android. `Expo · React Native · TypeScript`
 - [RailSetu](https://github.com/OPBSUTHAR/railway-management-system) — railway booking and operations app with seat maps and live tracking. `React · Leaflet`
 - [MyByte](https://github.com/OPBSUTHAR/MyByte) — gamified portfolio with terminal, XP, arcade mode and motion design. `React · GSAP`
