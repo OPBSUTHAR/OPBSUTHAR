@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Public_repos-48-22D3EE?style=flat-square&amp;labelColor=0B1220" alt="48 public repositories" />
-  <img src="https://img.shields.io/badge/Live_demos-10-A3E635?style=flat-square&amp;labelColor=0B1220" alt="10 live demos" />
+  <img src="https://img.shields.io/badge/Live_demos-11-A3E635?style=flat-square&amp;labelColor=0B1220" alt="11 live demos" />
   <img src="https://img.shields.io/github/followers/OPBSUTHAR?label=Followers&amp;style=flat-square&amp;color=A3E635&amp;labelColor=0B1220" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=OPBSUTHAR&amp;label=Profile%20views&amp;style=flat-square&amp;color=22D3EE" alt="Profile views" />
 </div>
